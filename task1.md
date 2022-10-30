@@ -7,7 +7,7 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)  
   (use "git checkout -- <file>..." to discard changes in working directory)
      
-      modified:   &emsp;CONTRIBUTING.md
+      modified:   CONTRIBUTING.md
 ```  
     
 Здесь явно сказано как отменить существующие изменения. Давайте так и сделаем:
