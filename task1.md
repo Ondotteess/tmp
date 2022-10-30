@@ -5,7 +5,7 @@
 
 Changes not staged for commit:  
   &emsp;&emsp;(use "git add \<file>..." to update what will be committed)  
-  &emsp;&emsp;(use "git checkout \-- <file>..." to discard changes in working directory)
+  &emsp;&emsp;(use "git checkout \-- \<file>..." to discard changes in working directory)
      
 &emsp;&emsp;&emsp;      modified:   &emsp;CONTRIBUTING.md
     
